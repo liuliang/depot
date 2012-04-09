@@ -1,13 +1,10 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
-one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 9.99
-
-two:
-  title: MyString
-  description: MyText
-  image_url: MyString
+ruby:
+  title: Programming Ruby 1.9
+  description: 
+      ruby is the fastest growing and most exciting dynamic
+      language ourt there, if you need to get working programs
+      delivaered fast, you should add ruby to your toolbox.
+  image_url: ruby.png
   price: 9.99
