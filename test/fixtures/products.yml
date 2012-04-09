@@ -8,3 +8,11 @@ ruby:
       delivaered fast, you should add ruby to your toolbox.
   image_url: ruby.png
   price: 9.99
+one:
+    title: my book
+    description: 
+        ruby is the fastest growing and most exciting dynamic
+        language ourt there, if you need to get working programs
+        delivaered fast, you should add ruby to your toolbox.
+    image_url: ruby.png
+    price: 9.99
